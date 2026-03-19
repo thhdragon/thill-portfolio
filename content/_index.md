@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Hello World
 toc: false
 ---
 
@@ -8,7 +8,7 @@ This is the landing page.
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="toc" title="Table of Contents" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 

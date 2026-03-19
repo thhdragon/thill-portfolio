@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Tyler Hill - Portfolio
 
 # import hextra as module
 module:
@@ -18,29 +18,42 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
+      weight: 1
+    - name: Table of Contents
+      pageRef: /toc
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Resume
+      pageRef: /resume
       weight: 3
-    - name: Search
+    - name: Degree Pathway
+      pageRef: /pathway
       weight: 4
-      params:
-        type: search
-    - name: GitHub
+    - name: Transcripts
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
+      pageRef: /transcripts
+    - name: Courses
+      pageRef: /courses
       weight: 6
-      url: "https://twitter.com/"
+    - name: Projects
+      pageRef: /projects
+      weight: 7
+    - name: Certifications
+      pageRef: /certifications
+      weight: 8
+    - name: Engagement
+      pageRef: /engagement
+      weight: 9
+    - name: Activities
+      pageRef: /activities
+      weight: 10
+    - name: GitHub
+      weight: 11
+      url: https://github.com/thhdragon
       params:
-        icon: x-twitter
+        type: link
+        icon: github
 
 params:
   navbar:
@@ -49,8 +62,8 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
-  editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+  #   editURL:
+  #     enable: true
+  #     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
