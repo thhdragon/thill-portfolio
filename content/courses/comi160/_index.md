@@ -12,7 +12,7 @@ Credit Hours: 3
 
 ### Course Description
 
-A lecture/lab course providing a survey of data processing and computers in business.  
+A lecture/lab course providing a survey of data processing and computers in business.
 
 * Topics include  
   * computer hardware
