@@ -1,6 +1,8 @@
 ---
 title: "Pathway"
 date: 2026-03-18T18:43:10-04:00
-draft: true
+type: docs
+prev: resume
+next: transcripts
 ---
 

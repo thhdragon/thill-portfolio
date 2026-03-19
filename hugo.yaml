@@ -22,7 +22,7 @@ menu:
       pageRef: /about
       weight: 1
     - name: Table of Contents
-      pageRef: /toc
+      pageRef: /docs
       weight: 2
     - name: Resume
       pageRef: /resume
@@ -56,6 +56,9 @@ menu:
         icon: github
 
 params:
+  page:
+    displayPagination: true
+
   navbar:
     displayTitle: true
     displayLogo: false
