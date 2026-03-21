@@ -1,7 +1,29 @@
 ---
 title: Resume
 date: 2026-03-18T18:42:31-04:00
+width: full
 ---
+
+{{< hextra/feature-card title="Title" subtitle="Subtitle" >}}
+
+{{< hextra/hero-badge >}}
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
+  <span>Free, open source</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
+{{< hextra/feature-grid cols="3" >}}
+  {{< hextra/feature-card title="One" >}}
+  {{< hextra/feature-card title="Two" >}}
+  {{< hextra/feature-card title="Three" >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/hero-headline >}}
+  Build modern websites&nbsp;<br class="hx:sm:block hx:hidden" />with Markdown and Hugo
+{{< /hextra/hero-headline >}}
+{{< hextra/hero-subtitle >}}
+  Fast, batteries-included Hugo theme&nbsp;<br class="hx:sm:block hx:hidden" />for creating beautiful static websites
+{{< /hextra/hero-subtitle >}}
 
 ## **Skills & Technologies**
 
@@ -27,7 +49,7 @@ date: 2026-03-18T18:42:31-04:00
 
 ## **Independent Projects & Activities**
 
-* **Microcontroller Development:** Building custom embedded systems using C and Python on Raspberry Pi and Espressif ESP32 boards.  
+* **Microcontroller Development:** Learning embedded systems using C and Python on Raspberry Pi and Espressif ESP32 boards.  
 * **Linux Environment Configuration:** Actively learning and documenting popular Linux CLI tools, writing shell scripts, and system optimization.
 
 ## **Education**
@@ -40,4 +62,4 @@ date: 2026-03-18T18:42:31-04:00
 ### **Baker University** | *Fall 2014 \- Winter 2015*
 
 * Coursework in Cyber Security  
-* *Details:* Developed a strong foundational understanding of networking, security protocols, and secure system design.
+* *Details:* Developed foundational understanding of networking, security protocols, and secure system design.

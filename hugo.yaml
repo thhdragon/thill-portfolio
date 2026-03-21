@@ -22,7 +22,7 @@ menu:
       pageRef: /about
       weight: 1
     - name: Table of Contents
-      pageRef: /docs
+      pageRef: /toc
       weight: 2
     - name: Resume
       pageRef: /resume
