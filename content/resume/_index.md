@@ -14,19 +14,19 @@ width: full
 
 ## **Experience**
 
-### **Programming & Software Development** | Self-Taught | 2025–Present
+### **Programming & Software Development** | Independently Learned | 2025–Present
 
-* Building practical programming skills through self-directed projects and coursework, with a focus on C, Python, and Rust
+* Building practical programming skills through self-directed projects and coursework, with a focus on Rust, C, and Python
 * Developing proficiency in Linux command-line tools, shell scripting, and system configuration
 * Learning version control best practices using Git for project management and collaboration
 
-### **3D CAD Design** | Self-Taught | 2023–Present
+### **3D CAD Design** | Independently Learned | 2023–Present
 
-* Design mechanical systems and components in OnShape and Fusion360, capable of real-world fabrication
+* Designing mechanical systems and components in OnShape and Fusion360, capable of real-world fabrication
 * Proficient in converting mechanical requirements into accurate CAD models with functional assembly logic
-* Applications: custom mechanical assemblies, hardware enclosures, and precision mechanical components
+* **Applications:** custom mechanical assemblies, hardware enclosures, and precision mechanical components
 
-### **3D Printer Design & Optimization** | Self-Taught Hobby | 2020–Present
+### **3D Printer Design & Optimization** | Independently Learned Hobby | 2020–Present
 
 * Designed, assembled, and optimized custom 3D printer builds from raw mechanical components
   (motors, pulleys, idlers, belts, etc.) to fully functional systems
@@ -35,17 +35,18 @@ width: full
 
 ## **Independent Projects & Activities**
 
-* **Microcontroller Development:** Learning embedded systems using C and Python on Raspberry Pi and Espressif ESP32 boards.  
-* **Linux Environment Configuration:** Actively learning by rebuilding popular Linux CLI tools, writing shell scripts, and researching system libraries.
+* **Microcontroller Development:** Learning embedded systems using C and Python on Raspberry Pi and Espressif ESP32 boards  
+* **Linux Environment Configuration:** Actively learning by rebuilding popular Linux CLI tools, writing shell scripts, and researching system libraries
 
 ## **Education**
 
 ### **Mott Community College** | *Winter 2026 \- Fall 2027*
 
 * Associate Degree in Computer Information Systems  
-* *Coursework highlights:* Intro to Programming, Linux/Unix Operating Systems. Actively expanding knowledge in software development and server environments.
+* *Coursework highlights:* Intro to Programming, Linux/Unix Operating Systems. Actively expanding knowledge in software development and network environments
 
 ### **Baker University** | *Fall 2014 \- Winter 2015*
 
 * Coursework in Cyber Security  
-* *Details:* Developed foundational understanding of networking, security protocols, and secure system design. Intro to BASH scripting and general education courses.
+* *Details:* Developed foundational understanding of networking, security, and system design
+* Coursework highlights: Intro to BASH scripting, networking, and general education courses

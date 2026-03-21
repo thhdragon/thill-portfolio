@@ -54,8 +54,11 @@ menu:
     - name: Activities
       pageRef: /activities
       weight: 10
-    - name: GitHub
+    - name: My Resources
+      pageRef: /resources
       weight: 11
+    - name: GitHub
+      weight: 12
       url: https://github.com/thhdragon
       params:
         type: link
